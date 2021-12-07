@@ -26,11 +26,11 @@ interests:
 education:
   courses:
   - course: PhD in Electronical and Computer Engineering
-    institution: The University of British Columbia
+    institution: The University of British Columbia, Vancouver, British Columbia
     year: 2019
   - course: BSc in New Energy Science and Technology
-    institution: The Chinese University of Hong Kong
-    year: 2015
+    institution: The Chinese University of Hong Kong, Shenzhen
+    year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,9 +53,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mengleih@ece.ubc.ca"
