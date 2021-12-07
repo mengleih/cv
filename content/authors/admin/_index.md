@@ -10,27 +10,24 @@ role: PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of British Columbia
+- name: The University of British Columbia
   url: https://www.ubc.ca
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include flexible electronics, first princeple calculations, molecular dynamics.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Flexible electronics
+- Computational materials
+- Artificial intelligence
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+  - course: PhD in Electronical and Computer Engineering
+    institution: The University of British Columbia
+    year: 2019
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
