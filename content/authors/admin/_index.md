@@ -25,12 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Electronical and Computer Engineering
+  - course: PhD student in Electronical and Computer Engineering
     institution: The University of British Columbia, Vancouver, British Columbia
-    year: 2019
+    year: 2019 - now
   - course: BSc in New Energy Science and Technology
     institution: The Chinese University of Hong Kong, Shenzhen
-    year: 2015-2019
+    year: 2015 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,6 +64,6 @@ email: "mengleih@ece.ubc.ca"
 highlight_name: true
 ---
 
-Menglei Hu is a PhD student in UBC.
+Menglei Hu is a PhD student in the University of British Columbia, Vancouver. He is now under the supervsion by Prof. Peyman Servati in [Flexible Electronics and Energy Lab] (https://feel.ece.ubc.ca/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
