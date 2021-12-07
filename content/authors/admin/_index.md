@@ -1,6 +1,6 @@
 ---
 # Display name
-title:Menglei Hu
+title: Menglei Hu
 
 # Is this the primary user of the site?
 superuser: true
